@@ -1,0 +1,129 @@
+body{
+  background-color: white;
+  margin:0;
+  font-family: "Robotic", sans-serif;
+}
+
+ td{
+   width: 30%;
+ }
+
+ .title{
+   font-size: 50px;
+   font-family: "Biancha",cursive;
+ }
+ .hello{
+   font-size: 100px;
+   font-family: "Biancha",cursive;
+   margin-top: 30px;
+   margin-bottom: 30px;
+ }
+ .top{
+   padding-left: 5%;
+   padding-top: 60px;
+ }
+ .about{
+   font-family: "Robotic", sans-serif;
+   list-style-type: none;
+   display: inline;
+   padding-right: 90px;
+ }
+ .bar{
+   text-align: right;
+ }
+ .topbar {
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+.topbar a {
+  color: #6B4F4F;
+  text-decoration: none;
+}
+.topbar a:hover {
+  background: white;
+  color: black;
+  text-decoration: underline;
+}
+
+.intro {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  background-color: #D7E9F7;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.intro2{
+  font-size: 25px;
+  font-family: montserrat,sans-serif;
+  font-weight: 200;
+  color: #8b6f7c;
+  padding-bottom: 20px;
+}
+.social{
+  width: 50px;
+  height: 50px;
+}
+
+.education {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.edu {
+  vertical-align: top;
+}
+
+.Contact{
+  background-color: #D7E9F7;
+  margin-right: 200px;
+  padding: 60px;
+}
+.font{
+  font-size: 65px;
+  text-align: center;
+}
+.center{
+  text-align: center;
+}
+.box{
+  width: 100%;
+  height: 50px;
+}
+
+.submit {
+  width: 100px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+.bg {
+  background-color: #D7E9F7;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+/*h1{
+  margin-top: 0;
+}
+
+.top-container{
+  background-color: #EEEEEE;
+}
+
+.middle-container{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+*/
